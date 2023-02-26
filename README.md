@@ -8,5 +8,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pooriaghaedi&show_icons=true&locale=en" alt="omarkorety" /></p>
 
-<h1 align="center">Contact me:</h1>
+## Contact me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pooria.ghaedi@gmail.com)
