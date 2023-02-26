@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Golang
 - 💬 Ask me about AWS, Terraform
 
-<h3 align="center"> Stats: </h3>
+<h3 align="left"> Stats: </h3>
 <hr>
 <div>
 
@@ -15,7 +15,7 @@
 </div>
 
 
-<h3 align="center"> Contact Information: </h3>
+<h3 align="left"> Contact Information: </h3>
 <hr>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pooria.ghaedi@gmail.com)
