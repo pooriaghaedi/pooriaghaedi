@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Golang
 - 💬 Ask me about AWS, Terraform
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pooriaghaedi&show_icons=true&locale=en&layout=compact" alt="omarkorety" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pooriaghaedi&show_icons=true&locale=en&layout=compact" alt="Pooria Ghaedi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pooriaghaedi&show_icons=true&locale=en" alt="Pooria Ghaedi" /></p>
 
