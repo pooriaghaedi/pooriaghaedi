@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Golang
 - 💬 Ask me about AWS, Terraform
 
-<h1 align="center"> Stats </h1>
+<h3 align="center"> Stats </h3>
 <!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pooriaghaedi&show_icons=true&locale=en&layout=compact" alt="Pooria Ghaedi" /></p> -->
 
