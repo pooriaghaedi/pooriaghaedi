@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning Golang
 - 💬 Ask me about AWS, Terraform
+
+## Stats:
 <!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pooriaghaedi&show_icons=true&locale=en&layout=compact" alt="Pooria Ghaedi" /></p> -->
 
