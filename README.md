@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Golang
 - 💬 Ask me about AWS, Terraform
-<hr>
+
 <h3 align="left"> Stats: </h3>
 <hr>
 <div>
@@ -13,9 +13,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pooriaghaedi&show_icons=true&locale=en&layout=compact" alt="Pooria Ghaedi" /></p>
   
 </div>
-<hr>
 
-<h3 align="left"> Contact Information: </h3>
+
+<h3 align="left" class="pt-4" > Contact Information: </h3>
 <hr>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pooria.ghaedi@gmail.com)
